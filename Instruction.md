@@ -70,6 +70,8 @@
 
 > git push -u origin master
 
+Коммитить на сайте проще чем в консоли=)
+
 ---
 
 [Больше полезных комманд на github](https://github.com/cyberspacedk/Git-commands)
